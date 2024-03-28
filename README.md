@@ -7,6 +7,7 @@
 ### 📋 Refresher courses
 - 2023: [Novosibirsk State Technical University](https://www.nstu.ru/) — Introduction to the development of digital twins
 - 2023: [Tomsk State University of Control Systems and Radioelectronics](https://tusur.ru/ru) — Information security in the use of mobile technologies
+- 2024 (now): [Tomsk State University of Control Systems and Radioelectronics](https://tusur.ru/ru) — Trusted interoperability of IoT infrastructure endpoints
 
 ### 💼 Skills
 - <b>Basic:</b> Java, Arduino C, Bash, R, GPSS, Racket, Prolog, Django, Vue, JavaScript
